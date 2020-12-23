@@ -22,3 +22,10 @@ encounter me in the wild, say hi!
 ### How active will you create or contribute code?
 
 I have no idea, but I hope to start doing it more often as I learn the ropes of programming and understand more languanges!
+
+
+### How can i contact you for (reason)?
+
+If you want to contact me, its best to contact me through discord!
+
+My tag is leshark#1147, my friend request are always open, but make sure to tell me you were sent to me through my github.
