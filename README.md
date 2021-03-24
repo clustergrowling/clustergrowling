@@ -29,3 +29,4 @@ I have no idea, but I hope to start doing it more often as I learn the ropes of 
 If you want to contact me, its best to contact me through discord!
 
 My tag is leshark#1147, my friend request are always open, but make sure to tell me you were sent to me through my github.
+[me/rbx]: https://www.roblox.com/users/675796106/profile
