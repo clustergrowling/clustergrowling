@@ -1,4 +1,6 @@
-[![Cluster's stats](https://github-readme-stats.vercel.app/api?username=clustergrowling&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+[![Cluster's stats](https://github-readme-stats.vercel.app/api?username=clustergrowling&show_icons=true&count_private=true&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[me/gh]
 <p>
 
 # Hey there, I'm Cluster!
@@ -33,4 +35,6 @@ If you want to contact me, its best to contact me through discord!
 
 My tag is leshark#1147, my friend request are always open, but make sure to tell me you were sent to me through my github.
 </p>
-[me/rbx]: https://www.roblox.com/users/675796106/profile
+</div>
+[<img src="https://images.rbxcdn.com/3b43a5c16ec359053fef735551716fc5.ico" alt="My roblox profile" height="28" />][me/rbx] &nbsp;]
+[me/rbx]: https://roblox.com/users/675796106/profile
